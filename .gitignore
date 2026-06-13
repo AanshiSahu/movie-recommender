@@ -1,0 +1,13 @@
+# Ignore heavy dataset matrices
+*.pkl
+*.csv
+
+# Ignore local environment configurations
+.env
+env/
+venv/
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
